@@ -335,7 +335,7 @@ html_content = """
                     <a href="https://t.me/premmohanofficial" class="social-btn" target="_blank">📨 Telegram</a>
                     <a href="https://linkedin.com/in/prem-mohan-842924330" class="social-btn" target="_blank">🔗 LinkedIn</a>
                     <a href="https://x.com/premmohan83966" class="social-btn" target="_blank">🐦 Twitter</a>
-                    <a href="https://github.com/premmohan" class="social-btn" target="_blank">🐙 GitHub</a>
+                    <a href="https://github.com/dashboard" class="social-btn" target="_blank">🐙 GitHub</a>
                 </div>
             </div>
 
