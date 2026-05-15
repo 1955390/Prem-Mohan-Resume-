@@ -453,8 +453,13 @@ html_content = """
 
     <div style="margin-bottom: 20px;">
         <strong>📜 O Level – IT & Computer Science</strong><br>
-        NIELIT, Government of India |Grade: B+ | 2026 | Expected Completion
+        NIELIT, Government of India | Grade: B+ | 2026 | Expected Completion
     </div>
+    
+    <div style="margin-bottom: 20px;">
+    <strong>🪖 National Cadet Corps (NCC) – ABC Certificate</strong><br>
+    2026 (Expected Completion) | Leadership, Discipline, Teamwork & Social Service
+</div>
 
     <div style="margin-bottom: 20px;">
         <strong>💻 COPA (Computer Operator & Programming Assistant)</strong><br>
