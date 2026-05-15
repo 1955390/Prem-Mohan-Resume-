@@ -438,25 +438,44 @@ html_content = """
             </div>
 
             <!-- Education & Certifications -->
-            <div class="section">
-                <h2>🎓 Education & Certifications</h2>
-                <div style="margin-bottom: 20px;">
-                    <strong>🎯 Artificial Intelligence Programming Assistant (AIPA)</strong><br>
-                    NSTI Kanpur | 2024-2025 | Score: 87%
-                </div>
-                <div style="margin-bottom: 20px;">
-                    <strong>📚 Intermediate (PCM)</strong><br>
-                    UP Board | 2022 | 75%
-                </div>
-                <div style="margin-bottom: 20px;">
-                    <strong>💻 ADCA (Advanced Diploma in Computer Applications)</strong><br>
-                    2023-2024 | MS Office, Python, HTML, MySQL
-                </div>
-                <div>
-                    <strong>🌐 CCC - NIELIT</strong><br>
-                    Government of India | 2024
-                </div>
-            </div>
+<div class="section">
+    <h2>🎓 Education & Certifications</h2>
+
+    <div style="margin-bottom: 20px;">
+        <strong>🎓 Bachelor of Science (B.Sc.) – PCM Stream</strong><br>
+        Awadh University, Ayodhya | 2022–2025 | Score: 85%
+    </div>
+
+    <div style="margin-bottom: 20px;">
+        <strong>🤖 Artificial Intelligence Programming Assistant (AIPA)</strong><br>
+        NSTI Kanpur | 2024–2025 | Score: 87%
+    </div>
+
+    <div style="margin-bottom: 20px;">
+        <strong>📜 O Level – IT & Computer Science</strong><br>
+        NIELIT, Government of India | 2026 | Expected Completion
+    </div>
+
+    <div style="margin-bottom: 20px;">
+        <strong>💻 COPA (Computer Operator & Programming Assistant)</strong><br>
+        NCVT | 2025–2026 | Skills: Programming, Computer Operation, Office Tools
+    </div>
+
+    <div style="margin-bottom: 20px;">
+        <strong>🌐 CCC (Course on Computer Concepts) – NIELIT</strong><br>
+        Government of India | 2024
+    </div>
+
+    <div style="margin-bottom: 20px;">
+        <strong>💻 ADCA (Advanced Diploma in Computer Applications)</strong><br>
+        2023–2024 | Subjects: MS Office, Python, HTML, MySQL
+    </div>
+
+    <div>
+        <strong>📖 Intermediate (PCM)</strong><br>
+        UP Board | 2022 | Percentage: 75%
+    </div>
+</div>
 
             <!-- Interests -->
             <div class="section">
