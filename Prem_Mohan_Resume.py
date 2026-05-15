@@ -478,19 +478,39 @@ html_content = """
 </div>
 
             <!-- Interests -->
-            <div class="section">
-                <h2>💡 Interests & Expertise</h2>
-                <div class="interests">
-                    <span class="interest-badge">Data Analysis</span>
-                    <span class="interest-badge">Java Development</span>
-                    <span class="interest-badge">Machine Learning</span>
-                    <span class="interest-badge">Streamlit Apps</span>
-                    <span class="interest-badge">Database Management</span>
-                    <span class="interest-badge">Translation</span>
-                    <span class="interest-badge">Web Development</span>
-                    <span class="interest-badge">AI Tools</span>
-                    <span class="interest-badge">Business Solutions</span>
-                </div>
+<div class="section">
+    <h2>💡 Interests & Expertise</h2>
+    <div class="interests">
+        <span class="interest-badge">Artificial Intelligence</span>
+        <span class="interest-badge">Machine Learning</span>
+        <span class="interest-badge">Deep Learning</span>
+        <span class="interest-badge">Data Analysis</span>
+        <span class="interest-badge">Data Visualization</span>
+        <span class="interest-badge">Python Programming</span>
+        <span class="interest-badge">Java Development</span>
+        <span class="interest-badge">Web Development</span>
+        <span class="interest-badge">Frontend Development</span>
+        <span class="interest-badge">Backend Development</span>
+        <span class="interest-badge">Streamlit Apps</span>
+        <span class="interest-badge">Database Management</span>
+        <span class="interest-badge">MySQL</span>
+        <span class="interest-badge">Computer Vision</span>
+        <span class="interest-badge">NLP</span>
+        <span class="interest-badge">Generative AI</span>
+        <span class="interest-badge">AI Tools</span>
+        <span class="interest-badge">Prompt Engineering</span>
+        <span class="interest-badge">API Integration</span>
+        <span class="interest-badge">IoT Projects</span>
+        <span class="interest-badge">Recommendation Systems</span>
+        <span class="interest-badge">Business Solutions</span>
+        <span class="interest-badge">Problem Solving</span>
+        <span class="interest-badge">Technical Research</span>
+        <span class="interest-badge">Translation</span>
+        <span class="interest-badge">Content Creation</span>
+        <span class="interest-badge">Career Guidance Platforms</span>
+        <span class="interest-badge">Educational Technology</span>
+    </div>
+</div>
             </div>
         </div>
 
