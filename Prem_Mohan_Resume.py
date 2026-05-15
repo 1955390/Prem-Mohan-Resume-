@@ -439,7 +439,16 @@ html_content = """
 
             <!-- Education & Certifications -->
 <div class="section">
-    <h2>🎓 Education & Certifications</h2>
+    <h2>💼 Professional Experience & Education Certifications</h2>
+    
+    <div style="margin-bottom: 20px;">
+    <strong>🏢 Present Position</strong><br>
+    Working as Data Analyst & Data Management Assistant with Personal Assistance Experience<br>
+    National Instructional Media Institute (NIMI), Chennai<br>
+    Directorate General of Training (DGT)<br>
+    Government of India<br>
+    Ministry of Skill Development & Entrepreneurship (MSDE)
+</div>
 
     <div style="margin-bottom: 20px;">
         <strong>🎓 Bachelor of Science (B.Sc.) – PCM Stream</strong><br>
