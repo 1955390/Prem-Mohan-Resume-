@@ -355,7 +355,7 @@ html_content = """
                 👨‍💻
             </div>
             <h1>Prem Mohan</h1>
-            <p class="tagline">Data Analyst | Java Developer | AI Enthusiast | Translator</p>
+            <p class="tagline">Data Analyst | Web Developer | AI Enthusiast | Translator</p>
         </header>
 
         <div class="content">
