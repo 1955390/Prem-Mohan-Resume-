@@ -383,12 +383,9 @@ html_content = """
             <!-- Profile Summary -->
             <div class="section">
                 <h2>👨‍💼 Profile Summary</h2>
-                <p style="line-height: 1.8; color: #555;">
-                    Detail-oriented Data Analyst & Entry-Level Java Developer with professional certifications in ADCA, CCC, and CTS in AI Programming Assistant. 
-                    Proficient in Python, SQL, Java, Excel, and data visualization (Matplotlib, Seaborn, Power BI). Skilled English-Hindi translator with experience 
-                    in CO₂ emission prediction, sales analysis, and customer churn modeling. Currently building efficient applications as a Java Developer.
-                </p>
-            </div>
+<p style="line-height: 1.8; color: #555;">
+    Passionate and detail-oriented Data Analyst, AI Programming Assistant, and Entry-Level Java Developer with strong knowledge of Python, SQL, Java, Excel, Streamlit, Machine Learning, and Database Management. Skilled in developing AI-based projects, web applications, and data visualization solutions using modern technologies. Experienced in CO₂ emission prediction, sales analysis, customer churn modeling, and English-Hindi translation. Currently contributing to Data Management, Analysis, and Administrative Support activities under the Government of India at National Instructional Media Institute (NIMI), Chennai.
+</p>
 
             <!-- Skills -->
             <div class="section">
