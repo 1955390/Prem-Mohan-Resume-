@@ -323,8 +323,8 @@ html_content = """
                 <h2>📞 Contact Information</h2>
                 <div class="contact-info">
                     <div class="contact-item">📧 premmohan966@gmail.com</div>
-                    <div class="contact-item">📱 +91 8174083966 / 9532006520</div>
-                    <div class="contact-item">📍 Vikalp Khand, Gomti Nagar, Lucknow - 226010</div>
+                    <div class="contact-item">📱 +91 8174083966</div>
+                    <div class="contact-item">📍 Lucknow - 226010</div>
                     <div class="contact-item">🎂 DOB: 05/10/2004</div>
                     <div class="contact-item">🇮🇳 Indian | OBC</div>
                     <div class="contact-item">👤 Male | Unmarried</div>
