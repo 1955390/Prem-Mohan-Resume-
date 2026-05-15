@@ -448,7 +448,7 @@ html_content = """
 
     <div style="margin-bottom: 20px;">
         <strong>🤖 Artificial Intelligence Programming Assistant (AIPA)</strong><br>
-        NSTI Kanpur | 2024–2025 | Score: 87%
+        NSTI Kanpur | DGT, Government of India | 2024–2025 | Score: 87%
     </div>
 
     <div style="margin-bottom: 20px;">
