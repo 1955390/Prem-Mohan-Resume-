@@ -15,17 +15,58 @@ st.markdown("""
     #MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
     header {visibility: hidden;}
-    
-    /* Custom animations */
+
+    /* Page animation */
     @keyframes fadeIn {
-        from { opacity: 0; transform: translateY(30px); }
-        to { opacity: 1; transform: translateY(0); }
+        from { 
+            opacity: 0; 
+            transform: translateY(30px); 
+        }
+        to { 
+            opacity: 1; 
+            transform: translateY(0); 
+        }
     }
-    
+
     .main-container {
         animation: fadeIn 0.8s ease;
     }
+
+    /* Floating Emoji Animation */
+    .floating-emoji {
+        position: fixed;
+        font-size: 40px;
+        z-index: 9999;
+        animation: moveAround 12s linear infinite;
+        pointer-events: none;
+    }
+
+    @keyframes moveAround {
+        0% {
+            top: 10%;
+            left: 5%;
+        }
+        25% {
+            top: 20%;
+            left: 80%;
+        }
+        50% {
+            top: 70%;
+            left: 75%;
+        }
+        75% {
+            top: 60%;
+            left: 10%;
+        }
+        100% {
+            top: 10%;
+            left: 5%;
+        }
+    }
 </style>
+
+<div class="floating-emoji">👨‍💻</div>
+
 """, unsafe_allow_html=True)
 
 # Complete HTML content
