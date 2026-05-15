@@ -486,9 +486,10 @@ html_content = """
     <strong>🏢 Present Position</strong><br>
     Working as Data Analyst & Data Management Assistant with Personal Assistance Experience<br>
          🇮🇳 Government of India<br>
-        📍 National Instructional Media Institute (NIMI), Chennai<br>
-        🏛️ Directorate General of Training (DGT)<br>
-        🚀 Ministry of Skill Development & Entrepreneurship (MSDE)
+📍 National Instructional Media Institute (NIMI), Chennai<br>
+🏛️ Directorate General of Training (DGT)<br>
+🚀 Ministry of Skill Development & Entrepreneurship (MSDE)
+
 </div>
 
     <div style="margin-bottom: 20px;">
