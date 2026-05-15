@@ -453,7 +453,7 @@ html_content = """
 
     <div style="margin-bottom: 20px;">
         <strong>📜 O Level – IT & Computer Science</strong><br>
-        NIELIT, Government of India | 2026 | Expected Completion
+        NIELIT, Government of India |Grade: B+ | 2026 | Expected Completion
     </div>
 
     <div style="margin-bottom: 20px;">
@@ -463,8 +463,8 @@ html_content = """
 
     <div style="margin-bottom: 20px;">
         <strong>🌐 CCC (Course on Computer Concepts) – NIELIT</strong><br>
-        Government of India | 2024
-    </div>
+        Government of India | Grade: A+ | 2024
+    </div> 
 
     <div style="margin-bottom: 20px;">
         <strong>💻 ADCA (Advanced Diploma in Computer Applications)</strong><br>
@@ -473,7 +473,7 @@ html_content = """
 
     <div>
         <strong>📖 Intermediate (PCM)</strong><br>
-        UP Board | 2022 | Percentage: 75%
+        UP Board | First Division | 2022 | Percentage: 75%
     </div>
 </div>
 
