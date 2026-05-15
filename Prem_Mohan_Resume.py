@@ -65,7 +65,7 @@ st.markdown("""
     }
 </style>
 
-<div class="floating-emoji">👨‍💻</div>
+<div class="floating-emoji">🤖</div>
 
 """, unsafe_allow_html=True)
 
@@ -485,10 +485,10 @@ html_content = """
     <div style="margin-bottom: 20px;">
     <strong>🏢 Present Position</strong><br>
     Working as Data Analyst & Data Management Assistant with Personal Assistance Experience<br>
-    National Instructional Media Institute (NIMI), Chennai<br>
-    Directorate General of Training (DGT)<br>
-    Government of India<br>
-    Ministry of Skill Development & Entrepreneurship (MSDE)
+        📍 National Instructional Media Institute (NIMI), Chennai<br>
+        🏛️ Directorate General of Training (DGT)<br>
+        🇮🇳 Government of India<br>
+        🚀 Ministry of Skill Development & Entrepreneurship (MSDE)
 </div>
 
     <div style="margin-bottom: 20px;">
