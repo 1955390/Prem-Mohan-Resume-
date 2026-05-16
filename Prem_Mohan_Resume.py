@@ -492,7 +492,7 @@ html_content = """
 
     <div style="margin-bottom: 20px;">
         <strong>🎓 Bachelor of Science (B.Sc.) – PCM Stream</strong><br>
-        Awadh University, Ayodhya | 2022–2025 | Score: 85%
+        Awadh University, Ayodhya | Score: 85%
     </div>
 
     <div style="margin-bottom: 20px;">
@@ -502,32 +502,32 @@ html_content = """
 
     <div style="margin-bottom: 20px;">
         <strong>📜 O Level – IT & Computer Science</strong><br>
-        NIELIT, Government of India | Grade: B+ | 2026 | Expected Completion
+        NIELIT, Government of India | Grade: B+ | Expected Completion
     </div>
     
     <div style="margin-bottom: 20px;">
     <strong>🪖 National Cadet Corps (NCC) – ABC Certificate</strong><br>
-    2026 (Expected Completion) | Leadership, Discipline, Teamwork & Social Service
+    (Expected Completion) | Leadership, Discipline, Teamwork & Social Service
 </div>
 
     <div style="margin-bottom: 20px;">
         <strong>💻 COPA (Computer Operator & Programming Assistant)</strong><br>
-        NCVT | 2025–2026 | Skills: Programming, Computer Operation, Office Tools
+        NCVT | Skills: Programming, Computer Operation, Office Tools
     </div>
 
     <div style="margin-bottom: 20px;">
         <strong>🌐 CCC (Course on Computer Concepts) – NIELIT</strong><br>
-        Government of India | Grade: A+ | 2024
+        Government of India | Grade: A+ 
     </div> 
 
     <div style="margin-bottom: 20px;">
         <strong>💻 ADCA (Advanced Diploma in Computer Applications)</strong><br>
-        2023–2024 | Subjects: MS Office, Python, HTML, MySQL
+         Subjects: MS Office, Python, HTML, MySQL
     </div>
 
     <div>
         <strong>📖 Intermediate (PCM)</strong><br>
-        UP Board | First Division | 2022 | Percentage: 75%
+        UP Board | First Division | Percentage: 75%
     </div>
 </div>
 
